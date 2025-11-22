@@ -45,7 +45,9 @@ char minname[50];
 						
 					}
 					
-					 printf("Highest Total Bill : %s = %d\n", maxname, maxtotal);
-    printf("Lowest Total Bill  : %s = %d\n", minname, mintotal);
+					
 	}
+	
+	printf("Highest Total Bill : %s = %d\n", maxname, maxtotal);
+    printf("Lowest Total Bill  : %s = %d\n", minname, mintotal);
 }
